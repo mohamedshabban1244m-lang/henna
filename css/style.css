@@ -30,9 +30,7 @@ body {
 }
 @media (max-width: 576px) {
   .btn-b {
-      
-
-   
+font-size: 12px;
   }
 }
  .btn-v {
